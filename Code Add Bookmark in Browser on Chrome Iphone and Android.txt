@@ -1,0 +1,5 @@
+javascript:( 
+() => { 
+var script = document.createElement('script'); script.src="//raw.githubusercontent.com/izunami/F12-on-Web-Iphone-Android/main/F12.js"; document.body.appendChild(script); script.onload = (() => eruda.init());
+}
+)()
